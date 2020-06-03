@@ -1,4 +1,4 @@
-const { VlElement } = require('vl-ui-core').Test;
+const {VlElement} = require('vl-ui-core').Test;
 
 class VlIntroduction extends VlElement {}
 
