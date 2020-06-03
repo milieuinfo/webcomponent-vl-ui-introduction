@@ -5,8 +5,8 @@ import {nativeVlElement, define} from '/node_modules/vl-ui-core/dist/vl-core.js'
  * @class
  * @classdesc Gebruik deze component als introductie van de website. Deze component krijgt een opvallende layout zodat de gebruiker zijn aandacht getrokken wordt.
  *
- * @mixin HTMLParagraphElement
- * @extends nativeVlElement
+ * @extends HTMLParagraphElement
+ * @mixin nativeVlElement
  *
  * @see {@link https://www.github.com/milieuinfo/webcomponent-vl-ui-introduction/releases/latest|Release notes}
  * @see {@link https://www.github.com/milieuinfo/webcomponent-vl-ui-introduction/issues|Issues}
