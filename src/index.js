@@ -1,3 +1,1 @@
-module.exports = {
-  VlIntroduction: require('../dist/vl-introduction.src.js').VlIntroduction,
-};
+export * from '../dist/vl-introduction.src.js';
